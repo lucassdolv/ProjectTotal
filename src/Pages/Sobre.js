@@ -1,11 +1,12 @@
 import React from "react";
-import { View, Text } from "react-native";
+import { View, Image } from "react-native";
+import Logo from "../../assets/icon.png"
 
 export default function () {
   return (
     <>
       <View>
-        <Text>Sobre</Text>
+        <Image />
       </View>
     </>
   );
