@@ -1,0 +1,31 @@
+{
+    "contatos": [
+        {
+            "id": "1",
+            "nome": "João Silva",
+            "telefone": "58416651"
+        },
+        {
+            "id": "2",
+            "nome": "Lucas Santos",
+            "telefone": "959433748"
+        }
+    ],
+    "faqs": [
+        {
+            "id": 1,
+            "pergunta": "Em que ano o Sport Club Corinthians Paulista foi fundado?",
+            "resposta": "1910"
+        },
+        {
+            "id": 2,
+            "pergunta": "Quais esportes o Clube esta envolvido?",
+            "resposta": "O Sport Club Corinthians Paulista é um clube poliesportivo que, além do tradicional futebol masculino, também se destaca em diversas outras modalidades esportivas. O clube possui uma equipe feminina de futebol de grande sucesso, além de participar ativamente em competições de futsal, basquete e vôlei. O Corinthians também apoia modalidades olímpicas, como natação e judô, e incentiva a prática de esportes como o tênis. Outro ponto relevante é o compromisso com os esportes paralímpicos, com destaque para o futebol de 5 e a natação paralímpica."
+        },
+        {
+            "id": 3,
+            "pergunta": "Qual o ultimo titulo relevante do Clube no futebol?",
+            "resposta": "Campeonato Paulista de 2019"
+        }
+    ]
+}

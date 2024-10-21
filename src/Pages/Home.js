@@ -23,6 +23,13 @@ export default function () {
         buttonText="Ir para Contato"
         onPress= {() => navigation.navigate('Contato')}
         />
+        <Text style={styles.tituloInfo}>Mais informações</Text>
+        <Card
+        title="Faq"
+        content="Clique abaixo para entrar em faq"
+        buttonText="Ir para faq"
+        onPress= {() => navigation.navigate('Faq')}
+        />
       </View>
     </>
   );
