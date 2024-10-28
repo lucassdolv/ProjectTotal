@@ -4,7 +4,7 @@ import { View, Text, Button, StyleSheet } from "react-native";
 import Card from "../Components/Card";
 
 export default function () {
-    const navigation = useNavigation();
+  const navigation = useNavigation();
     
   return (
     <>
